@@ -9,3 +9,11 @@ h1{
     color: red;
     margin: 100px 0;
 }
+p{
+    font-size: 20px;
+    text-align: justify;
+    width: 80%;
+    margin: 10px auto;
+    color: #444;
+    font-family: arial;
+}
