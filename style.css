@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-style: 60px;
+    color: red;
+    margin: 100px 0;
+}
